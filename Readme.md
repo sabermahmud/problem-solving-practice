@@ -1,6 +1,6 @@
 # Problem Solving Practice
 
-A personal repository dedicated to daily problem-solving practice using JavaScript. My goal is to strengthen logical thinking, improve coding skills, and become a better problem solver through consistent practice.
+A personal repository dedicated to daily problem-solving practice using JavaScript through **LeetCode**. My goal is to strengthen logical thinking, improve coding skills, and become a better problem solver through consistent practice.
 
 ## 🎯 Goals
 
@@ -16,6 +16,7 @@ A personal repository dedicated to daily problem-solving practice using JavaScri
 - JavaScript (ES6+)
 - Node.js
 - Git & GitHub
+- LeetCode
 
 ## 📚 Practice Topics
 
@@ -44,20 +45,21 @@ problem-solving-practice/
 └── README.md
 ```
 
-_The repository structure may evolve as I explore more topics and improve my skills._
+*The repository structure may evolve as I explore more topics and improve my skills.*
 
 ## 📈 My Learning Approach
 
-1. Understand the problem carefully.
-2. Think through possible approaches independently.
-3. Consult official documentation when needed.
-4. Write and test my own solution.
-5. Review edge cases and improve code quality.
-6. Commit and push my progress to GitHub.
+1. Choose a problem from LeetCode.
+2. Understand the problem carefully.
+3. Think through possible approaches independently.
+4. Consult official documentation when needed.
+5. Write and test my own solution.
+6. Review edge cases and improve code quality.
+7. Commit and push my progress to GitHub.
 
 ## 📅 Daily Practice
 
-I aim to solve **10 problems daily**, gradually progressing from very easy to advanced-hard challenges.
+I aim to solve **10 problems daily** on LeetCode, gradually progressing from very easy to advanced-hard challenges.
 
 Consistency matters more than perfection. Every problem is an opportunity to learn something new.
 
@@ -69,4 +71,4 @@ I will keep practicing, learning from mistakes, and improving one problem at a t
 
 ---
 
-_Learning by solving. Growing through consistency._
+*Learning by solving. Growing through consistency.*
