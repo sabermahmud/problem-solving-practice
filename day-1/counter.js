@@ -1,9 +1,12 @@
-const counter = (n) =>{
+const createCounter = (n) =>{
     let value = n;
     return () => {
         return value ++ 
     }
 }
-const count = counter(10);
-console.log(count())
-console.log(count())
+
+
+
+// const count = counter();
+// console.log(count())
+// console.log(count())

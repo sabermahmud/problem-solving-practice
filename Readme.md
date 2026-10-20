@@ -59,7 +59,7 @@ problem-solving-practice/
 
 ## 📅 Daily Practice
 
-I aim to solve **10 problems daily** on LeetCode, gradually progressing from very easy to advanced-hard challenges.
+I aim to solve **minimum 2 problems daily** on LeetCode, gradually progressing from very easy to advanced-hard challenges.
 
 Consistency matters more than perfection. Every problem is an opportunity to learn something new.
 
