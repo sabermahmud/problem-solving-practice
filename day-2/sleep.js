@@ -1,10 +1,5 @@
-
-
 const sleep = async (millis) => {
-
-    return millis
+    await new Promise (resolve => setTimeout(resolve, millis))
 }
-const timeOut =  setTimeout(sleep(100), 1000)
-
-
-console.log(timeOut)
+console.log(sleep(100))
+ 
